@@ -1,4 +1,4 @@
-# .github
+# NetherGate 
 The README.md for NetherGate LLC
 
-Work in Progress.
+Work in progress.
